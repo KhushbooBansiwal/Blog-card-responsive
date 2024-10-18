@@ -9,4 +9,4 @@ The card features a modern design with hover effects, making it visually appeali
   
 ## Application output
 
-[![Blog Card Output](outputblog-card.png)](blog-card.png)
+[![Blog Card Output](https://github.com/KhushbooBansiwal/Blog-card-responsive/blob/f5eb82952fade84ef2be546d7c4e91083d2fd6f3/output%20blog-card.png?raw=true)](https://github.com/KhushbooBansiwal/Blog-card-responsive/blob/f5eb82952fade84ef2be546d7c4e91083d2fd6f3/output%20blog-card.png?raw=true)
