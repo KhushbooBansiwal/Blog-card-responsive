@@ -9,4 +9,4 @@ The card features a modern design with hover effects, making it visually appeali
   
 ## Application output
 
-[![Blog Card Output](images/output%20blog-card.png)](images/output%20blog-card.png)
+[![Blog Card Output](outputblog-card.png)](blog-card.png)
