@@ -13,4 +13,5 @@ The card features a modern design with hover effects, making it visually appeali
 
 ## All Devices -Responsive
 
-[![Blog Card Output (https://github.com/KhushbooBansiwal/Blog-card-responsive/blob/256d6dd047e1c7dfe593ba618f21b7a9b32ee83e/output%20blog-responsive.png)] (https://github.com/KhushbooBansiwal/Blog-card-responsive/blob/256d6dd047e1c7dfe593ba618f21b7a9b32ee83e/output%20blog-responsive.png)
+[![Blog Card Output](https://github.com/KhushbooBansiwal/Blog-card-responsive/blob/256d6dd047e1c7dfe593ba618f21b7a9b32ee83e/output%20blog-responsive.png?raw=true)](https://github.com/KhushbooBansiwal/Blog-card-responsive/blob/256d6dd047e1c7dfe593ba618f21b7a9b32ee83e/output%20blog-responsive.png?raw=true)
+
