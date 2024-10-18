@@ -8,5 +8,4 @@ The card features a modern design with hover effects, making it visually appeali
 - Clean Layout: Simple and elegant design that effectively displays blog content, including titles,price, images, and descriptions.
   
 ## Application output
-images/output blog-card.png
-
+[![Blog Card Output](images/output%20blog-card.png)](images/output%20blog-card.png)
